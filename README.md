@@ -1,13 +1,14 @@
-# 🧠 LeetCode Solutions in C++
+# 🧠 LeetCode Solutions in C++ and Java
 
-A collection of my LeetCode solutions written in C++, organized by topic.
+A collection of my LeetCode solutions written in C++ and Java, organized by topic.
 Solved as part of my placement preparation during BTech at IIIT Bhopal.
 
 ## 📁 Structure
 Solutions are organized by topic (Arrays, Strings, LinkedList, etc.)
 
-## 🛠️ Language
+## 🛠️ Languages
 - C++
+- Java
 
 ## 📈 Progress
 | Topic | Problems Solved |
