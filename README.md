@@ -17,6 +17,7 @@ Solutions are organized by topic (Arrays, Strings, LinkedList, etc.)
 | Strings | 0 |
 | Linked List | 0 |
 | Dynamic Programming | 0 |
+| Maths | 1 |
 
 ## 🔗 Connect
 - GitHub: [abhishekraj0310](https://github.com/abhishekraj0310)
