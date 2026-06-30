@@ -13,11 +13,11 @@ Solutions are organized by topic (Arrays, Strings, LinkedList, etc.)
 ## 📈 Progress
 | Topic | Problems Solved |
 |-------|----------------|
-| Arrays | 7 |
+| Arrays | 8 |
 | Strings | 0 |
 | Linked List | 0 |
 | Dynamic Programming | 0 |
-| Maths | 1 |
+| Maths | 3 |
 
 ## 🔗 Connect
 - GitHub: [abhishekraj0310](https://github.com/abhishekraj0310)
