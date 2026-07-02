@@ -13,7 +13,7 @@ Solutions are organized by topic (Arrays, Strings, LinkedList, etc.)
 ## 📈 Progress
 | Topic | Problems Solved |
 |-------|----------------|
-| Arrays | 10 |
+| Arrays | 11 |
 | Strings | 0 |
 | Linked List | 0 |
 | Dynamic Programming | 0 |
@@ -21,6 +21,8 @@ Solutions are organized by topic (Arrays, Strings, LinkedList, etc.)
 
 ## 🔗 Connect
 - GitHub: [abhishekraj0310](https://github.com/abhishekraj0310)
+
+- Leetcode: [https://leetcode.com/u/abhishekraj0310/]
 
 ---
 ⭐ Star this repo if you find it helpful!
