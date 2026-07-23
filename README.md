@@ -13,7 +13,7 @@ Solutions are organized by topic (Arrays, Strings, LinkedList, etc.)
 ## 📈 Progress
 | Topic | Problems Solved |
 |-------|----------------|
-| Arrays | 24 |
+| Arrays | 26 |
 | Strings | 1  |
 | Linked List | 0 |
 | Dynamic Programming | 0 |
