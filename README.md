@@ -14,7 +14,7 @@ Solutions are organized by topic (Arrays, Strings, LinkedList, etc.)
 | Topic | Problems Solved |
 |-------|----------------|
 | Arrays | 28 |
-| Strings | 1  |
+| Strings | 3  |
 | Linked List | 0 |
 | Dynamic Programming | 0 |
 | Maths | 5 |
